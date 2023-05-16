@@ -20,6 +20,8 @@ public class Form {
         System.out.println("annualSalary" + "=" + "$" +annualSalary);
         String nationality = "indian";
         System.out.println("nationality" + "=" + nationality);
+        boolean isMarried = true;
+        System.out.println("isMarried" + " = " + isMarried);
 
 
 
