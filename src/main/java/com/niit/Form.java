@@ -12,6 +12,9 @@ public class Form {
         System.out.println("email" + "=" + email);
         int age = 34;
         System.out.println("age" + "=" + age);
+        char gender = 'M';
+        System.out.println("gender" + "=" + gender);
+
 
 
 
