@@ -10,6 +10,8 @@ public class Form {
         System.out.println("contactNumber" + "=" + contactNumber);
         String email = "John@email.com";
         System.out.println("email" + "=" + email);
+        int age = 34;
+        System.out.println("age" + "=" + age);
 
 
 
