@@ -14,6 +14,8 @@ public class Form {
         System.out.println("age" + "=" + age);
         char gender = 'M';
         System.out.println("gender" + "=" + gender);
+        String occupation = "manager";
+        System.out.println("occupation" + "=" + occupation);
 
 
 
