@@ -16,6 +16,9 @@ public class Form {
         System.out.println("gender" + "=" + gender);
         String occupation = "manager";
         System.out.println("occupation" + "=" + occupation);
+        double annualSalary = 10000;
+        System.out.println("annualSalary" + "=" + "$" +annualSalary);
+
 
 
 
