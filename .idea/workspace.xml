@@ -124,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684259382570</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="initialized a variable occupation using string datatype">
+      <created>1684259539573</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684259539573</updated>
+    </task>
+    <task id="LOCAL-00009" summary="initialized a variable annualsalary using double datatype">
+      <created>1684259724242</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684259724242</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,6 +149,8 @@
     <MESSAGE value="initialized a variable email using string datatype" />
     <MESSAGE value="initialized a variable age using int datatype" />
     <MESSAGE value="initialized a variable gender using char datatype" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialized a variable gender using char datatype" />
+    <MESSAGE value="initialized a variable occupation using string datatype" />
+    <MESSAGE value="initialized a variable annualsalary using double datatype" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialized a variable annualsalary using double datatype" />
   </component>
 </project>
