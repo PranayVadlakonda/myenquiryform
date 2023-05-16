@@ -1,9 +1,13 @@
 package com.niit;
 
+import java.sql.SQLOutput;
+
 public class Form {
     public static void main(String[] args) {
-        int monthlySalary = 2500;
-        System.out.println(monthlySalary);
+        String name = "John";
+        System.out.println("name" + "=" + name);
+
+
 
     }
 }
