@@ -8,6 +8,9 @@ public class Form {
         System.out.println("name" + "=" + name);
         long contactNumber = 412312556;
         System.out.println("contactNumber" + "=" + contactNumber);
+        String email = "John@email.com";
+        System.out.println("email" + "=" + email);
+
 
 
 
